@@ -31,7 +31,6 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Kotlin, Arduino, Firebase** for my Capstone project
 
 - 🌱 I’m currently getting my BSIT degree (degree hotter next year)
 
@@ -52,7 +51,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,cpp,css,firebase,github,java,js,mysql,py,php,vscode,arduino&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,cpp,css,firebase,github,java,js,mysql,py,php,vscode,arduino,nodejs,androidstudio,&perline=14" />
   </a>
 </p>
 
